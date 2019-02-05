@@ -10,6 +10,9 @@ Portafolio web en un marquetado parecido al instagram. [Accede a BritoGram](http
 Ing. Marco Brito :.<br/>
 Desarrollador Web Full - Stack / Marketing Digital / Ventas / Logística.<br/>
 <a href="http://brito.com.ve">BRITO Digital Agency</a>
+<hr/>
+
+<p align="center"><img src="http://brito.com.ve/siscom/img/britogram.jpg"></p>
 
 <br/><br/><br/><br/><br/><br/>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
